@@ -1,0 +1,2 @@
+Teclado reddragon;150.00;10;135.0
+CPu Gamer;870.00;0;870.0
